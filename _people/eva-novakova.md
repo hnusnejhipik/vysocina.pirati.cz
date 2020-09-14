@@ -5,14 +5,10 @@ name: Eva Nováková
 fullname: Eva Nováková        
 category:
   - clenove
-  - pmsjihlavsko
   - msjihlavsko
-  - pks
   - kandidat2018 
-ordpmsjihlavsko: 2
-ordpks: 4
-description: 3. místopředsedkyně Krajského sdružení Vysočina
-profession: Vedoucí sociální služby
+description: koordinátorka Krajského sdružení Vysočina
+profession: koordinátorka Krajského sdružení Vysočina
 img: people/eva-novakova.jpg
 mail:
   - eva.novakova@pirati.cz
