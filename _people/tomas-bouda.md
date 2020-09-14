@@ -8,8 +8,8 @@ category:
   - pmsjihlavsko
   - msjihlavsko        
   - kandidat2018  
-ordpmsjihlavsko: 1
-description: předseda Místního sdružení Jihlavsko
+ordpmsjihlavsko: 2
+description: 1. místopředseda Místního sdružení Jihlavsko
 profession: Student Fakulty strojní v Praze, obor strojírenství, ekonomie a řízení podniku. Pracuje v Automotive Lighting na oddělení technologie.
 img: people/tomas-bouda.jpg
 mail:
