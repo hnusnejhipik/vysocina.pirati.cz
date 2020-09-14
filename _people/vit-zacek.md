@@ -8,8 +8,8 @@ category:
   - pmsjihlavsko         
   - msjihlavsko           
   - kandidat2018   
-ordpmsjihlavsko: 3
-description: 2. místopředseda Místního sdružení Jihlavsko
+ordpmsjihlavsko: 1
+description: předseda Místního sdružení Jihlavsko
 profession: Student ekonomie, fanoušek FC Vysočina Jihlava a cestování, politický idealista
 img: people/vit-zacek.jpg
 mail:
