@@ -5,9 +5,11 @@ titles:
   before: 
   after:
 category:
-  - koks
-  - kontaktni_osoba
-description: koordinátorka Krajského sdružení Vysočina
+  - clenove
+  - pmsjihlavsko         
+  - msjihlavsko
+ordpmsjihlavsko: 3
+description: 2. místopředsedkyně Místního sdružení Jihlavsko
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg
 mail:
